@@ -3,7 +3,7 @@
 
 **Coordinators:**  
 Marzieh Mokarram: Department of Geography, Faculty of Economics, Management and Social Sciences, Shiraz University, Shiraz, Iran, Email: m.mokarram@shirazu.ac.ir
-Hui Liu: School of Geography and Ocean Science, Nanjing University, Nanjing 210023, China, Email: huayulu@ngmail.com
+Hui Liu: School of Geography and Ocean Science, Nanjing University, Nanjing 210023, China, Email: huiliu@gmail.com
 
 
 **Goal:**  
