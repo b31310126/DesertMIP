@@ -1,21 +1,18 @@
-# DesertMIP – CMIP7 Community MIP on Global Desert Dynamics
+# DesertMIP
 
+**A proposed CMIP7 Community Model Intercomparison Project**
 
 **Coordinators:**  
-Marzieh Mokarram: Department of Geography, Faculty of Economics, Management and Social Sciences, Shiraz University, Shiraz, Iran, Email: m.mokarram@shirazu.ac.ir
-Hui Liu: School of Geography and Ocean Science, Nanjing University, Nanjing 210023, China, Email: huiliu@gmail.com
-
+Marzieh Mokarram – Shiraz University, Iran – m.mokarram@shirazu.ac.ir  
+Huayu Lu – Nanjing University, China – huayulu@nju.edu.cn  
 
 **Goal:**  
-First multi-model assessment of dynamic desert boundaries on dust emission and climate feedbacks in CMIP7-class models.
+Multi-model investigation of desert dynamics and related climate feedbacks in CMIP7.
 
-**Prototype dataset:**  
-Annual global desert fraction at 0.1° resolution (harmonized Landsat + Sentinel-2) – coming soon on Zenodo.
+**Status:**  
+Proposal in preparation (December 2025).  
+Call for participation paper planned for 2026.
 
-**Contact:** [m.mokarram.313@gmail.com]
+**Contact:** m.mokarram@shirazu.ac.ir
 
-This repository will host:
-- Forcing datasets
-- Experiment protocols
-- Documentation
-- Call for participation (GMD paper in preparation)
+This repository will host project documentation and datasets (coming soon).
