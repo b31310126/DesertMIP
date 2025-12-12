@@ -1,8 +1,11 @@
 # DesertMIP – CMIP7 Community MIP on Global Desert Dynamics
 
+
 **Coordinators:**  
 Marzieh Mokarram: Department of Geography, Faculty of Economics, Management and Social Sciences, Shiraz University, Shiraz, Iran, Email: m.mokarram@shirazu.ac.ir
 Huayu Lu: School of Geography and Ocean Science, Nanjing University, Nanjing 210023, China, Email: huayulu@nju.edu.cn
+
+
 **Goal:**  
 First multi-model assessment of dynamic desert boundaries on dust emission and climate feedbacks in CMIP7-class models.
 
